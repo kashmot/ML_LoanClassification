@@ -1,5 +1,5 @@
 # ML_LoanClassification
-ML2 Individual Project
+ML2 Individual Project using SMOTE and neural networks
 
 Executive Summary
 
